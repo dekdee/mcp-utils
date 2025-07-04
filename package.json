@@ -1,0 +1,17 @@
+{
+  "name": "mcp-utils",
+  "version": "1.0.0",
+  "description": "Utilities to validate, normalize, and generate MCP (Model Context Protocol) JSON metadata for AI workflows.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "llm",
+    "metadata"
+  ],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://www.mcp-hunt.com/"
+}
