@@ -27,7 +27,7 @@ console.log(generateMCP());
 
 ## Learn more about MCP
 
-🌐 [Visit mcp-hunt.com](https://www.mcp-hunt.com/) for more details.
+🌐 [Visit mcp-hunt.com](https://www.mcp-hunt.com/)  to explore more mcp related topics.
 
 ## License
 
